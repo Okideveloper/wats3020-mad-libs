@@ -25,7 +25,7 @@ let adjective1 = prompt('Give me a descriptive term','funny');
 let vehicle = prompt('Give me a vehicle name','JEEP');
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
-let vehiclepart = prompt('Provide vehicle part','engine');
+let vehiclePart = prompt('Provide vehicle part','engine');
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
 let parking = prompt('Provide a place to park','infront of store');
@@ -34,7 +34,7 @@ let parking = prompt('Provide a place to park','infront of store');
 let precious = prompt('Provide a precious object','ring');
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
-let nooseMaker = prompt('Provide noise maker','horn');
+let noiseMaker = prompt('Provide noise maker','horn');
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 let crowdBehavior = prompt('Provide something do in a crowd','sing');
@@ -76,7 +76,7 @@ let thing3 = prompt('Provide a thing','blanket');
 let adjective4 = prompt('Give me a descriptive term','nice');
 
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
-let adjective4 = prompt('Give me a descriptive term','colorful');
+let adjective5 = prompt('Give me a descriptive term','colorful');
 
 
 ////////////////////////////////////////////////////////////////////////
@@ -92,8 +92,8 @@ let userNumber = prompt('Enter your favorite number','5');
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
-let number2 = userNumber + 2;
-let number3 = userNumber3 + 3;
+let number2 = userNumber *1;
+let number3 = userNumber + 5;
 
 
 // DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////

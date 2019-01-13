@@ -2,5 +2,13 @@
 
 body {
     padding: 1rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #D7C9F9;
+    background-color: #5F5D64;
+    font-weight: 300;
+    font-variant: small-caps;
+}
+h1  {
+    text-shadow: 2px 2px 5px darkblue;
 }
